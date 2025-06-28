@@ -5,7 +5,7 @@ export default function SpotifyCleanupSteps() {
   return (
     <section className="spotifydatacon w-full text-white py-16 px-4 flex justify-center">
       <div className="max-w-3xl w-full space-y-12">
-        <h2 className="text-3xl font-bold text-center mb-12">
+        <h2 className="text-3xl font-semibold text-center mb-12">
           Clean up your Spotify in 3 easy steps
         </h2>
 
@@ -19,7 +19,7 @@ export default function SpotifyCleanupSteps() {
             <FaDownload />
           </div>
           <div>
-            <h3 className="text-xl font-semibold mb-2">Download your data</h3>
+            <h3 className="text-lg font-semibold mb-2">Download your data</h3>
             <p className="text-gray-300">
               Go to{" "}
               <a

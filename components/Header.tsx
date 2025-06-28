@@ -13,7 +13,7 @@ export function Header() {
           <h1 className="ml-3">My Spotify</h1>
         </div>
       </div>
-      <div className="hidden sm:flex h-20 w-full shadow-black shadow-2xl justify-between items-center">
+      <div className="hidden sm:flex h-18 w-full shadow-black shadow-2xl justify-between items-center">
         <div className=" w-2/5 text-xl flex flex-row items-center px-3 py-1 ">
           <img
             src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png"
